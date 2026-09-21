@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# But keep these
+!.gitignore
+!Codes/
+!Codes/**
+!Data/
+!Data/**
